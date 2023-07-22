@@ -5,3 +5,9 @@ Todo is a to-do list website that uses CRUD operations, and it is also using loc
 
 ## Demo
 [Demo](https://mohamed-dahni.github.io/todo/)
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- LocalStorage API
