@@ -10,4 +10,4 @@ Todo is a to-do list website that uses CRUD operations, and it is also using loc
 - HTML
 - CSS
 - JavaScript
-- LocalStorage API
+- localStorage API
